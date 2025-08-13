@@ -6,5 +6,7 @@
 // console.log(` functions: ${functions()}`);
 // console.log(`interfaces: `, interfaces())
 // console.log(classes())
-import Inheritance from "./inheritance";
-Inheritance()
+import Inheritance from "./oop&classes/inheritance";
+import abstractClass from "./oop&classes/abstractClass";
+// Inheritance()
+abstractClass()
